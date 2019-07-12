@@ -378,6 +378,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2019-07-12 22:50:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-12 00:57:02 +0800"
