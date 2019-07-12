@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-07-12 21:39:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-07-11 22:36:39 +0800"
@@ -687,6 +693,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2019-07-12 19:36:08 +0800",
+      "slime": "2019-07-12 21:46:28 +0800",
       "skeleton": "2019-07-11 22:55:29 +0800",
       "zombie": "2019-07-11 23:03:34 +0800",
       "witch": "2019-07-11 23:36:56 +0800",
@@ -962,6 +969,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-07-11 22:39:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-07-12 21:40:12 +0800"
     },
     "done": true
   },
@@ -1333,6 +1346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-07-12 21:39:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-07-12 00:48:18 +0800"
@@ -1348,6 +1367,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-07-11 23:55:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2019-07-12 21:39:43 +0800"
     },
     "done": true
   },
