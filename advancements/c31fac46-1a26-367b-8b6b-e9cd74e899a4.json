@@ -806,6 +806,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2019-07-14 18:52:59 +0800",
       "zombie_villager": "2019-07-12 19:36:08 +0800",
       "magma_cube": "2019-07-13 18:04:38 +0800",
       "slime": "2019-07-12 21:46:28 +0800",
